@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.log
+.env
+.env.local
+.DS_Store
+Thumbs.db
+.vite/
+
+# Бэкенд (Express + SQLite) пока не публикуется в репозитории.
+# Удалите строку ниже, когда сервер нужно будет закоммитить.
+/server
